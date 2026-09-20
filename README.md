@@ -40,7 +40,9 @@ I'm a Computer Engineering student at CIT-U who enjoys building things with code
 breaking things, fixing them, and learning something new along the way.
 
 ---
-## 🕸️  Contribution Web
+<h1 align="center">
+  Contributions
+</h1>
 
 <p align="center">
   <img
