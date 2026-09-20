@@ -1,6 +1,14 @@
-# 🕷️ Hey, I'm Cyndrick Abejo!
+<p align="center">
+  <img 
+    src="./assets/chibi-hero-pixel.svg" 
+    width="180" 
+    alt="Cyn-Sharp mascot"
+  />
+</p>
 
-### 🕸️ `Cyn-Sharp` | Computer Engineering Student
+<h1 align="center">
+  🕷️ Hey, I'm Cyndrick Abejo!
+</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
