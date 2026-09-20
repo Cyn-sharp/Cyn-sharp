@@ -78,7 +78,7 @@ breaking things, fixing them, and learning something new along the way.
 ## 🚀 Featured Projects
 
 <!--
-  These cards pull the description and main language straight from each repo.
+  The badges pull each repo's top language and last commit live from GitHub.
   TODO: make sure the repo names below match your actual GitHub repos exactly.
   TODO: add live demo links next to each project if you have them.
 -->
@@ -88,15 +88,23 @@ breaking things, fixing them, and learning something new along the way.
     <td width="50%" valign="top">
       <h3>🗑️ GARBO</h3>
       <p>A waste management system designed to help improve garbage collection and communication within communities.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/Cyn-sharp/GARBO?style=flat-square&color=1E90FF" alt="GARBO top language"/>
+        <img src="https://img.shields.io/github/last-commit/Cyn-sharp/GARBO?style=flat-square&color=FF1744" alt="GARBO last commit"/>
+      </p>
       <a href="https://github.com/Cyn-sharp/GARBO">
-        <img width="100%" alt="GARBO repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=Cyn-sharp&repo=GARBO&title_color=FF1744&text_color=FFFFFF&icon_color=1E90FF&bg_color=0D1117&border_color=1E90FF"/>
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white&color=1E90FF" alt="View GARBO on GitHub"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🔄 U-ConvertIT</h3>
       <p>A student-focused web application featuring productivity and AI-powered academic tools.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/Cyn-sharp/U-ConvertIT?style=flat-square&color=1E90FF" alt="U-ConvertIT top language"/>
+        <img src="https://img.shields.io/github/last-commit/Cyn-sharp/U-ConvertIT?style=flat-square&color=FF1744" alt="U-ConvertIT last commit"/>
+      </p>
       <a href="https://github.com/Cyn-sharp/U-ConvertIT">
-        <img width="100%" alt="U-ConvertIT repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=Cyn-sharp&repo=U-ConvertIT&title_color=FF1744&text_color=FFFFFF&icon_color=1E90FF&bg_color=0D1117&border_color=1E90FF"/>
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white&color=1E90FF" alt="View U-ConvertIT on GitHub"/>
       </a>
     </td>
   </tr>
@@ -104,8 +112,12 @@ breaking things, fixing them, and learning something new along the way.
     <td width="50%" valign="top">
       <h3>🧭 QuestGo</h3>
       <p>A web-based platform built with Next.js that connects users through a quest-based system.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/Cyn-sharp/QuestGo?style=flat-square&color=1E90FF" alt="QuestGo top language"/>
+        <img src="https://img.shields.io/github/last-commit/Cyn-sharp/QuestGo?style=flat-square&color=FF1744" alt="QuestGo last commit"/>
+      </p>
       <a href="https://github.com/Cyn-sharp/QuestGo">
-        <img width="100%" alt="QuestGo repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=Cyn-sharp&repo=QuestGo&title_color=FF1744&text_color=FFFFFF&icon_color=1E90FF&bg_color=0D1117&border_color=1E90FF"/>
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white&color=1E90FF" alt="View QuestGo on GitHub"/>
       </a>
     </td>
     <td width="50%" valign="middle" align="center">
@@ -139,19 +151,6 @@ breaking things, fixing them, and learning something new along the way.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Cyn-sharp&show_icons=true&count_private=true&title_color=FF1744&text_color=FFFFFF&icon_color=1E90FF&bg_color=0D1117&border_color=1E90FF"
-    alt="GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyn-sharp&layout=compact&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117&border_color=1E90FF"
-    alt="Top languages"
-    height="165"
-  />
-</p>
-
 <!-- Snake animation: needs the snake.yml workflow (see setup notes) -->
 <p align="center">
   <picture>
@@ -160,18 +159,6 @@ breaking things, fixing them, and learning something new along the way.
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Cyn-sharp/Cyn-sharp/output/github-snake-dark.svg" />
   </picture>
 </p>
-
-<details>
-  <summary><b>📈 Click to expand: contribution activity graph</b></summary>
-  <br/>
-  <p align="center">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Cyn-sharp&bg_color=0D1117&color=FF1744&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=true"
-      alt="Contribution activity graph"
-      width="100%"
-    />
-  </p>
-</details>
 
 <p align="center">
   <i>Every commit leaves a mark on the web. 🕷️</i>
@@ -184,8 +171,8 @@ breaking things, fixing them, and learning something new along the way.
 <!-- TODO: replace the LinkedIn and email placeholders with your real ones -->
 <p align="center">
   <a href="https://cca-cpe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=1E90FF" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/na/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=1E90FF" alt="LinkedIn"/></a>
-  <a href="mailto:cyndrickabejo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=FF1744" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=1E90FF" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=FF1744" alt="Email"/></a>
 </p>
 
 <img
