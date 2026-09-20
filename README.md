@@ -1,7 +1,7 @@
 <p align="center">
   <img 
-    src="./assets/chibi-hero-pixel.svg" 
-    width="100" 
+    src="./assets/sm-eyes.svg" 
+    width="200" 
     alt="Cyn-Sharp mascot"
   />
 </p>
