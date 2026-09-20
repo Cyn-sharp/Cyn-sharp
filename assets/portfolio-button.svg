@@ -1,21 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60">
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64">
 
   <defs>
-    <linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="0%">
+
+    <!-- Animated colorful background -->
+    <linearGradient id="rgbGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      
       <stop offset="0%" stop-color="#ff0000">
         <animate
           attributeName="stop-color"
-          values="#ff0000;#ff00ff;#0000ff;#00ffff;#00ff00;#ffff00;#ff0000"
-          dur="4s"
+          values="#ff0000;#ff003c;#ff0080;#ff0000"
+          dur="3s"
           repeatCount="indefinite"
         />
       </stop>
 
-      <stop offset="50%" stop-color="#0000ff">
+      <stop offset="35%" stop-color="#ff0033">
         <animate
           attributeName="stop-color"
-          values="#0000ff;#00ffff;#00ff00;#ffff00;#ff0000;#ff00ff;#0000ff"
-          dur="4s"
+          values="#ff0033;#ff0066;#8a00ff;#ff0033"
+          dur="3s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="65%" stop-color="#7a00ff">
+        <animate
+          attributeName="stop-color"
+          values="#7a00ff;#004cff;#ff0055;#7a00ff"
+          dur="3s"
           repeatCount="indefinite"
         />
       </stop>
@@ -23,37 +35,70 @@
       <stop offset="100%" stop-color="#ff0000">
         <animate
           attributeName="stop-color"
-          values="#ff0000;#ff00ff;#0000ff;#00ffff;#00ff00;#ffff00;#ff0000"
-          dur="4s"
+          values="#ff0000;#ff0044;#ff00aa;#ff0000"
+          dur="3s"
           repeatCount="indefinite"
         />
       </stop>
+
     </linearGradient>
+
+    <!-- Subtle glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
-  <!-- Button -->
+  <!-- Glow behind button -->
+  <rect
+    x="5"
+    y="5"
+    width="230"
+    height="54"
+    rx="16"
+    fill="url(#rgbGradient)"
+    opacity="0.45"
+    filter="url(#glow)"
+  />
+
+  <!-- Main colorful button -->
   <rect
     x="3"
     y="3"
-    width="214"
-    height="54"
-    rx="14"
-    fill="#161b22"
-    stroke="url(#rgb)"
-    stroke-width="4"
+    width="234"
+    height="58"
+    rx="16"
+    fill="url(#rgbGradient)"
   />
 
-  <!-- Text -->
+  <!-- Dark inner layer -->
+  <rect
+    x="7"
+    y="7"
+    width="226"
+    height="50"
+    rx="12"
+    fill="#171717"
+    opacity="0.18"
+  />
+
+  <!-- Button text -->
   <text
-    x="110"
-    y="37"
+    x="120"
+    y="39"
     text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="18"
-    font-weight="bold"
-    fill="white"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="17"
+    font-weight="700"
+    letter-spacing="1"
+    fill="#ffffff"
   >
-    🕸️ VISIT MY PORTFOLIO
+    VISIT MY PORTFOLIO
   </text>
 
 </svg>
