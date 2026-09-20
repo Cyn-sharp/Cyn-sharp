@@ -41,20 +41,16 @@ breaking things, fixing them, and learning something new along the way.
 
 ## 🕸️ Contribution Web
 
-## 🕸️ Contribution Web
-
 <p align="center">
-  <img 
-    src="./assets/contribution-spider.svg" 
-    alt="Animated GitHub Contribution Web"
-    width="900"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Cyn-sharp&bg_color=1f2328&color=c9d1d9&title_color=ffffff&line=20fb35&point=ffffff&area_color=20fb35&area=true&hide_border=true"
+    alt="Cyndrick's GitHub Contribution Web"
   />
 </p>
 
 <p align="center">
   <i>Every commit leaves a mark on the web. 🕷️</i>
 </p>
-
 ---
 
 ## 🕷️ Featured Projects
