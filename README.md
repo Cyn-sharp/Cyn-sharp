@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
-> **"With great power comes great responsibility."** 🕷️
+> **"In spite of everything you do for them, they will always hate for making a mistake."** 
 
 Welcome to my corner of the web!
 
@@ -30,12 +30,12 @@ breaking things, fixing them, and learning something new along the way.
 
 ## 🕷️ About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Full-Stack Developer
-- ⚙️ Interested in Web Development & DevOps
-- 🧠 Always learning something new
-- 🕸️ Building projects one commit at a time
-- 🦸‍♂️ Trying to become the developer my future self would be proud of
+- Computer Engineering Student
+- Full-Stack Developer
+- Interested in Web Development & DevOps
+- Always learning something new
+- Building projects one commit at a time
+- Trying to become the developer my future self would be proud of
 
 ---
 
@@ -53,15 +53,15 @@ breaking things, fixing them, and learning something new along the way.
 
 ## 🕷️ Featured Projects
 
-### 🕸️ GARBO
+###  GARBO
 A waste management system designed to help improve garbage collection
 and communication within communities.
 
-### ⚡ U-ConvertIT
+###  U-ConvertIT
 A student-focused web application featuring productivity and
 AI-powered academic tools.
 
-### 🎮 QuestGo
+###  QuestGo
 A web-based platform built with Next.js that connects users through
 a quest-based system.
 
