@@ -1,7 +1,7 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF1744,100:1E90FF&text=Welcome%20to%20my%20Web&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF1744,100:1E90FF&text=Welcome%20to%20my%20Profile&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn"
     width="100%"
     alt="Welcome to my Profile"
   />
