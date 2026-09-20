@@ -11,10 +11,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://cca-cpe.vercel.app/">
-    <img 
+  <a href="cca-cpe.vercel.app">
+    <img
       src="./assets/portfolio-button.svg"
-      width="220"
+      width="240"
       alt="Visit My Portfolio"
     />
   </a>
