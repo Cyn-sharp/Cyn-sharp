@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  🕷️ Hey, I'm Cyndrick Abejo!
+   Hey, I'm Cyndrick Abejo!
 </h1>
 
 <p align="center">
