@@ -62,7 +62,7 @@ breaking things, fixing them, and learning something new along the way.
 <p align="center">
   <i>Every commit leaves a mark on the web. 🕷️</i>
 </p>
----
+
 
 <h1 align = "center">
   Featured Projects
