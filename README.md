@@ -56,19 +56,18 @@ breaking things, fixing them, and learning something new along the way.
 - Trying to become the developer my future self would be proud of
 
 ---
-## 🕸️ Contribution Web
+## 🕸️  Contribution Web
 
 <p align="center">
   <img
-    src="https://ssr-contributions-svg.vercel.app/_/Cyn-sharp?chart=calendar&format=jpeg&theme=dark&dark=true&colors=3f3f46,7f1d1d,b91c1c,ef4444,ff0000"
-    alt="Cyndrick's GitHub Contributions"
+    src="https://streak-stats.demolab.com/?user=Cyn-sharp&background=0D1117&border=FF1744&stroke=1E90FF&ring=FF1744&fire=FF1744&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1E90FF&sideLabels=FFFFFF&dates=60A5FA&hide_border=false"
+    alt="Cyndrick's GitHub Streak Stats"
   />
 </p>
 
 <p align="center">
   <i>Every commit leaves a mark on the web. 🕷️</i>
 </p>
-
 ---
 
 ## 🕷️ Featured Projects
