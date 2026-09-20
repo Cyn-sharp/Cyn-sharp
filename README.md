@@ -10,6 +10,16 @@
   🕷️ Hey, I'm Cyndrick Abejo!
 </h1>
 
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img 
+      src="./assets/portfolio-button.svg"
+      width="220"
+      alt="Visit My Portfolio"
+    />
+  </a>
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
