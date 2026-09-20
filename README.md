@@ -41,19 +41,8 @@
 
 Welcome to my corner of the web!
 
-I'm a Computer Engineering student who enjoys building things with code,
+I'm a Computer Engineering student at CIT-U who enjoys building things with code,
 breaking things, fixing them, and learning something new along the way.
-
----
-
-## 🕷️ About Me
-
-- Computer Engineering Student
-- Full-Stack Developer
-- Interested in Web Development & DevOps
-- Always learning something new
-- Building projects one commit at a time
-- Trying to become the developer my future self would be proud of
 
 ---
 ## 🕸️  Contribution Web
