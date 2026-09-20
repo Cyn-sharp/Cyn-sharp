@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-   Hey, I'm Cyndrick Abejo BSCPE - 3 years ng kupal!
+   Hey, I'm Cyndrick Abejo BSCPE!
 </h1>
 
 <p align="center">
