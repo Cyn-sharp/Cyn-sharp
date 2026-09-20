@@ -2,50 +2,28 @@
 
   <defs>
 
-    <!-- Animated colorful background -->
-    <linearGradient id="rgbGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      
-      <stop offset="0%" stop-color="#ff0000">
-        <animate
-          attributeName="stop-color"
-          values="#ff0000;#ff003c;#ff0080;#ff0000"
-          dur="3s"
-          repeatCount="indefinite"
-        />
-      </stop>
-
-      <stop offset="35%" stop-color="#ff0033">
-        <animate
-          attributeName="stop-color"
-          values="#ff0033;#ff0066;#8a00ff;#ff0033"
-          dur="3s"
-          repeatCount="indefinite"
-        />
-      </stop>
-
-      <stop offset="65%" stop-color="#7a00ff">
-        <animate
-          attributeName="stop-color"
-          values="#7a00ff;#004cff;#ff0055;#7a00ff"
-          dur="3s"
-          repeatCount="indefinite"
-        />
-      </stop>
-
-      <stop offset="100%" stop-color="#ff0000">
-        <animate
-          attributeName="stop-color"
-          values="#ff0000;#ff0044;#ff00aa;#ff0000"
-          dur="3s"
-          repeatCount="indefinite"
-        />
-      </stop>
-
+    <!-- Red-dominant RGB gradient -->
+    <linearGradient
+      id="portfolioGradient"
+      x1="0%"
+      y1="0%"
+      x2="100%"
+      y2="0%"
+    >
+      <stop offset="0%"   stop-color="#ff0000"/>
+      <stop offset="25%"  stop-color="#ff1744"/>
+      <stop offset="50%"  stop-color="#8a00ff"/>
+      <stop offset="72%"  stop-color="#ff0055"/>
+      <stop offset="100%" stop-color="#ff0000"/>
     </linearGradient>
 
-    <!-- Subtle glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+    <!-- Soft glow -->
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur
+        stdDeviation="5"
+        result="blur"
+      />
+
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -54,38 +32,54 @@
 
   </defs>
 
-  <!-- Glow behind button -->
+
+  <!-- Glow -->
   <rect
     x="5"
     y="5"
     width="230"
     height="54"
     rx="16"
-    fill="url(#rgbGradient)"
+    fill="url(#portfolioGradient)"
     opacity="0.45"
     filter="url(#glow)"
   />
 
-  <!-- Main colorful button -->
+
+  <!-- Main button -->
   <rect
     x="3"
     y="3"
     width="234"
     height="58"
     rx="16"
-    fill="url(#rgbGradient)"
+    fill="url(#portfolioGradient)"
   />
 
-  <!-- Dark inner layer -->
+
+  <!-- Dark translucent overlay -->
   <rect
     x="7"
     y="7"
     width="226"
     height="50"
     rx="12"
-    fill="#171717"
-    opacity="0.18"
+    fill="#000000"
+    opacity="0.20"
   />
+
+
+  <!-- Subtle highlight -->
+  <rect
+    x="8"
+    y="8"
+    width="224"
+    height="20"
+    rx="10"
+    fill="#ffffff"
+    opacity="0.08"
+  />
+
 
   <!-- Button text -->
   <text
