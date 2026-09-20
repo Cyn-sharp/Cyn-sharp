@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🕷️ Hey, I'm Cyndrick Abejo!
 
-<!--
-**Cyn-sharp/Cyn-sharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🕸️ `Cyn-Sharp` | Computer Engineering Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+> **"With great power comes great responsibility."** 🕷️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my corner of the web!  
+I'm a Computer Engineering student who enjoys building things with code,
+breaking things, fixing them, and learning something new along the way.
+
+---
+
+## 🕷️ About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Interested in Full-Stack Development
+- ⚙️ Exploring Web Development & DevOps
+- 🧠 Always learning something new
+- 🕸️ Building projects one commit at a time
+- 🦸‍♂️ Trying to become the developer my future self would be proud of
+
+---
+
+## 🕸️ My Tech Web
+
+```text
+Frontend       ███████████████░░░  React.js
+Backend        ████████████░░░░░░  Python / FastAPI
+Programming    █████████████░░░░░  C / C# / Java
+Database       ███████████░░░░░░░  Firebase / Supabase
+Tools          ███████████████░░░  Git / GitHub / VS Code
+DevOps         █████████░░░░░░░░░  Learning...
