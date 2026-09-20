@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60">
+
+  <defs>
+    <linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate
+          attributeName="stop-color"
+          values="#ff0000;#ff00ff;#0000ff;#00ffff;#00ff00;#ffff00;#ff0000"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="50%" stop-color="#0000ff">
+        <animate
+          attributeName="stop-color"
+          values="#0000ff;#00ffff;#00ff00;#ffff00;#ff0000;#ff00ff;#0000ff"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="100%" stop-color="#ff0000">
+        <animate
+          attributeName="stop-color"
+          values="#ff0000;#ff00ff;#0000ff;#00ffff;#00ff00;#ffff00;#ff0000"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Button -->
+  <rect
+    x="3"
+    y="3"
+    width="214"
+    height="54"
+    rx="14"
+    fill="#161b22"
+    stroke="url(#rgb)"
+    stroke-width="4"
+  />
+
+  <!-- Text -->
+  <text
+    x="110"
+    y="37"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="18"
+    font-weight="bold"
+    fill="white"
+  >
+    🕸️ VISIT MY PORTFOLIO
+  </text>
+
+</svg>
