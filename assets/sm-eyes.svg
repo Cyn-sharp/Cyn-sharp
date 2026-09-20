@@ -1,0 +1,104 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <style>
+      .background {
+        fill: #1a1a1a;
+      }
+      
+      /* Base styles for the outer black frame of the lenses */
+      .eye-outer {
+        fill: #111111;
+        transform-origin: center;
+      }
+
+      /* Base styles for the inner white expressive lenses */
+      .eye-inner {
+        fill: #FFFFFF;
+        transform-origin: center;
+      }
+
+      /* Animation timing for the left eye */
+      #left-outer {
+        animation: blinkOuter 4s ease-in-out infinite;
+      }
+      #left-inner {
+        animation: blinkInner 4s ease-in-out infinite;
+      }
+
+      /* Animation timing for the right eye (slightly staggered for a natural feel) */
+      #right-outer {
+        animation: blinkOuter 4s ease-in-out infinite;
+      }
+      #right-inner {
+        animation: blinkInner 4s ease-in-out infinite;
+      }
+
+      /* Keyframes for the thick black border */
+      @keyframes blinkOuter {
+        0%, 15%, 85%, 100% {
+          transform: scaleY(1) scaleX(1);
+        }
+        /* First subtle squint */
+        20%, 30% {
+          transform: scaleY(0.65) scaleX(0.95);
+        }
+        /* Return to normal */
+        35%, 50% {
+          transform: scaleY(1) scaleX(1);
+        }
+        /* Full rapid blink */
+        53%, 57% {
+          transform: scaleY(0.05) scaleX(1.05);
+        }
+        /* Reopen */
+        60%, 80% {
+          transform: scaleY(1) scaleX(1);
+        }
+      }
+
+      /* Keyframes for the white center (scales tighter to preserve the black outline borders) */
+      @keyframes blinkInner {
+        0%, 15%, 85%, 100% {
+          transform: scaleY(1) scaleX(1);
+        }
+        /* First subtle squint */
+        20%, 30% {
+          transform: scaleY(0.50) scaleX(0.92);
+        }
+        /* Return to normal */
+        35%, 50% {
+          transform: scaleY(1) scaleX(1);
+        }
+        /* Full rapid blink */
+        53%, 57% {
+          transform: scaleY(0.0) scaleX(1.05);
+        }
+        /* Reopen */
+        60%, 80% {
+          transform: scaleY(1) scaleX(1);
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Dark Background for Contrast -->
+  <rect width="100%" height="100%" class="background" />
+
+  <g id="spiderman-eyes">
+    <!-- LEFT EYE -->
+    <g transform="translate(0, 0)">
+      <!-- Outer Black Frame -->
+      <path id="left-outer" class="eye-outer" d="M 160 210 C 180 120, 270 120, 360 190 C 375 202, 370 230, 340 280 C 290 360, 210 380, 175 350 C 150 328, 148 260, 160 210 Z" />
+      <!-- Inner White Lens -->
+      <path id="left-inner" class="eye-inner" d="M 185 215 C 200 145, 270 145, 340 200 C 350 208, 345 225, 325 265 C 285 330, 220 345, 195 320 C 178 302, 178 250, 185 215 Z" />
+    </g>
+
+    <!-- RIGHT EYE (Mirrored geometry) -->
+    <g transform="translate(0, 0)">
+      <!-- Outer Black Frame -->
+      <path id="right-outer" class="eye-outer" d="M 640 210 C 620 120, 530 120, 440 190 C 425 202, 430 230, 460 280 C 510 360, 590 380, 625 350 C 650 328, 652 260, 640 210 Z" />
+      <!-- Inner White Lens -->
+      <path id="right-inner" class="eye-inner" d="M 615 215 C 600 145, 530 145, 460 200 C 450 208, 455 225, 475 265 C 515 330, 580 345, 605 320 C 622 302, 622 250, 615 215 Z" />
+    </g>
+  </g>
+</svg>
