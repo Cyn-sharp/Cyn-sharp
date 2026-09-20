@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://cca-cpe.vercel.app">
+  <a href="https://cca-cpe.vercel.app" target="_blank">
     <img
       src="./assets/button.svg"
       width="240"
