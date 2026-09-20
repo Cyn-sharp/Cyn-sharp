@@ -41,27 +41,19 @@ breaking things, fixing them, and learning something new along the way.
 
 ## 🕸️ Contribution Web
 
-<div align="center">
+## 🕸️ Contribution Web
 
-<!-- Spider animation + contribution graph -->
-<div style="background-color: #2b2b2b; padding: 20px; border-radius: 12px;">
-
-  <img src="YOUR_SPIDER_GIF_HERE" width="45" alt="Crawling Spider" />
-
-  <br>
-
+<p align="center">
   <img 
-    src="https://ghchart.rshah.org/Cyn-sharp" 
-    alt="Cyndrick's GitHub Contributions"
+    src="./assets/contribution-spider.svg" 
+    alt="Animated GitHub Contribution Web"
+    width="900"
   />
-
-</div>
-
-<p>
-  <i>🕷️ The spider moves through the web — but never touches the active nodes.</i>
 </p>
 
-</div>
+<p align="center">
+  <i>Every commit leaves a mark on the web. 🕷️</i>
+</p>
 
 ---
 
