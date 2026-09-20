@@ -18,7 +18,7 @@
 <p align="center">
   <img
     src="./assets/sm-eyes.svg"
-    width="100%"
+    width="150"
     alt="Cyn-Sharp mascot"
   />
 </p>
