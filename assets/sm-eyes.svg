@@ -1,81 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://w3.org" viewBox="0 0 800 500" width="100%" height="100%">
-  <defs>
-    <style>
-      .background {
-        fill: #1a1a1a;
-      }
-      
-      .eye-outer {
-        fill: #111111;
-      }
-
-      .eye-inner {
-        fill: #FFFFFF;
-      }
-
-      /* Explicit transform centers for accurate scale animation */
-      #left-outer, #left-inner {
-        transform-origin: 260px 245px;
-      }
-      #right-outer, #right-inner {
-        transform-origin: 540px 245px;
-      }
-
-      #left-outer, #right-outer {
-        animation: blinkOuter 4s ease-in-out infinite;
-      }
-      #left-inner, #right-inner {
-        animation: blinkInner 4s ease-in-out infinite;
-      }
-
-      @keyframes blinkOuter {
-        0%, 15%, 85%, 100% {
-          transform: scaleY(1) scaleX(1);
-        }
-        20%, 30% {
-          transform: scaleY(0.65) scaleX(0.95);
-        }
-        35%, 50% {
-          transform: scaleY(1) scaleX(1);
-        }
-        53%, 57% {
-          transform: scaleY(0.05) scaleX(1.05);
-        }
-        60%, 80% {
-          transform: scaleY(1) scaleX(1);
-        }
-      }
-
-      @keyframes blinkInner {
-        0%, 15%, 85%, 100% {
-          transform: scaleY(1) scaleX(1);
-        }
-        20%, 30% {
-          transform: scaleY(0.50) scaleX(0.92);
-        }
-        35%, 50% {
-          transform: scaleY(1) scaleX(1);
-        }
-        53%, 57% {
-          transform: scaleY(0.0) scaleX(1.05);
-        }
-        60%, 80% {
-          transform: scaleY(1) scaleX(1);
-        }
-      }
-    </style>
-  </defs>
-
-  <rect width="100%" height="100%" class="background" />
-
-  <g id="spiderman-eyes">
-    <!-- LEFT EYE -->
-    <path id="left-outer" class="eye-outer" d="M 160 210 C 180 120, 270 120, 360 190 C 375 202, 370 230, 340 280 C 290 360, 210 380, 175 350 C 150 328, 148 260, 160 210 Z" />
-    <path id="left-inner" class="eye-inner" d="M 185 215 C 200 145, 270 145, 340 200 C 350 208, 345 225, 325 265 C 285 330, 220 345, 195 320 C 178 302, 178 250, 185 215 Z" />
-
-    <!-- RIGHT EYE -->
-    <path id="right-outer" class="eye-outer" d="M 640 210 C 620 120, 530 120, 440 190 C 425 202, 430 230, 460 280 C 510 360, 590 380, 625 350 C 650 328, 652 260, 640 210 Z" />
-    <path id="right-inner" class="eye-inner" d="M 615 215 C 600 145, 530 145, 460 200 C 450 208, 455 225, 475 265 C 515 330, 580 345, 605 320 C 622 302, 622 250, 615 215 Z" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" width="100%" preserveAspectRatio="xMidYMid meet" shape-rendering="crispEdges" style="display:block;image-rendering:pixelated" role="img" aria-labelledby="t">
+  <title id="t">Pixel art eyes blinking</title>
+  <style>
+    .eye { transform-box: fill-box; transform-origin: center; animation: blink 4.5s infinite; }
+    @keyframes blink {
+      0%, 88% { transform: scaleY(1);    animation-timing-function: ease-in; }
+      91.5%   { transform: scaleY(0.08); animation-timing-function: linear; }
+      95%     { transform: scaleY(0.08); animation-timing-function: ease-out; }
+      100%    { transform: scaleY(1); }
+    }
+    @media (prefers-reduced-motion: reduce) { .eye { animation: none; } }
+  </style>
+  <rect width="64" height="32" fill="#000000"/>
+  <g class="eye">
+    <path fill="#262626" d="M11 7h18v1h-18zM8 8h4v1h-4zM28 8h2v1h-2zM5 9h4v1h-4zM29 9h1v1h-1zM3 10h3v1h-3zM29 10h2v1h-2zM1 11h3v1h-3zM30 11h1v1h-1zM1 12h1v1h-1zM30 12h1v1h-1zM1 13h1v1h-1zM30 13h1v1h-1zM1 14h1v1h-1zM30 14h1v1h-1zM1 15h1v1h-1zM30 15h1v1h-1zM1 16h1v1h-1zM30 16h1v1h-1zM1 17h3v1h-3zM30 17h1v1h-1zM3 18h3v1h-3zM30 18h1v1h-1zM5 19h3v1h-3zM30 19h1v1h-1zM7 20h3v1h-3zM30 20h1v1h-1zM9 21h3v1h-3zM29 21h2v1h-2zM11 22h3v1h-3zM29 22h1v1h-1zM13 23h4v1h-4zM28 23h2v1h-2zM16 24h13v1h-13z"/>
+    <path fill="#FFFFFF" d="M14 10h12v1h-12zM11 11h16v1h-16zM8 12h19v1h-19zM6 13h22v1h-22zM8 14h20v1h-20zM10 15h18v1h-18zM12 16h16v1h-16zM14 17h13v1h-13zM16 18h11v1h-11zM19 19h7v1h-7z"/>
+    <path fill="#BEC4CC" d="M4 14h4v1h-4zM6 15h4v1h-4zM8 16h4v1h-4zM10 17h4v1h-4zM27 17h1v1h-1zM12 18h4v1h-4zM27 18h1v1h-1zM14 19h5v1h-5zM26 19h1v1h-1zM16 20h11v1h-11zM19 21h7v1h-7z"/>
+  </g>
+  <g class="eye">
+    <path fill="#262626" d="M35 7h18v1h-18zM34 8h2v1h-2zM52 8h4v1h-4zM34 9h1v1h-1zM55 9h4v1h-4zM33 10h2v1h-2zM58 10h3v1h-3zM33 11h1v1h-1zM60 11h3v1h-3zM33 12h1v1h-1zM62 12h1v1h-1zM33 13h1v1h-1zM62 13h1v1h-1zM33 14h1v1h-1zM62 14h1v1h-1zM33 15h1v1h-1zM62 15h1v1h-1zM33 16h1v1h-1zM62 16h1v1h-1zM33 17h1v1h-1zM60 17h3v1h-3zM33 18h1v1h-1zM58 18h3v1h-3zM33 19h1v1h-1zM56 19h3v1h-3zM33 20h1v1h-1zM54 20h3v1h-3zM33 21h2v1h-2zM52 21h3v1h-3zM34 22h1v1h-1zM50 22h3v1h-3zM34 23h2v1h-2zM47 23h4v1h-4zM35 24h13v1h-13z"/>
+    <path fill="#FFFFFF" d="M38 10h12v1h-12zM37 11h16v1h-16zM37 12h19v1h-19zM36 13h22v1h-22zM36 14h20v1h-20zM36 15h18v1h-18zM36 16h16v1h-16zM37 17h13v1h-13zM37 18h11v1h-11zM38 19h7v1h-7z"/>
+    <path fill="#BEC4CC" d="M56 14h4v1h-4zM54 15h4v1h-4zM52 16h4v1h-4zM36 17h1v1h-1zM50 17h4v1h-4zM36 18h1v1h-1zM48 18h4v1h-4zM37 19h1v1h-1zM45 19h5v1h-5zM37 20h11v1h-11zM38 21h7v1h-7z"/>
   </g>
 </svg>
