@@ -1,0 +1,80 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 900 250"
+>
+
+  <!-- Gray background -->
+  <rect
+    width="900"
+    height="250"
+    rx="16"
+    fill="#1f2328"
+  />
+
+  <!-- Contribution boxes -->
+
+  <rect x="100" y="100" width="14" height="14" rx="3" fill="#30363d"/>
+  <rect x="120" y="100" width="14" height="14" rx="3" fill="#216e39"/>
+  <rect x="140" y="100" width="14" height="14" rx="3" fill="#30363d"/>
+  <rect x="160" y="100" width="14" height="14" rx="3" fill="#39d353"/>
+
+  <!-- More contribution boxes... -->
+
+
+  <!-- 🕷️ Spider -->
+  <g>
+
+    <!-- body -->
+    <ellipse
+      cx="100"
+      cy="108"
+      rx="5"
+      ry="7"
+      fill="#050505"
+    />
+
+    <!-- head -->
+    <circle
+      cx="100"
+      cy="99"
+      r="4"
+      fill="#050505"
+    />
+
+    <!-- legs -->
+    <path
+      d="
+        M97 103 L91 99
+        M97 105 L90 105
+        M97 108 L91 112
+        M103 103 L109 99
+        M103 105 L110 105
+        M103 108 L109 112
+      "
+      stroke="#050505"
+      stroke-width="2"
+      fill="none"
+      stroke-linecap="round"
+    />
+
+    <!-- Crawl animation -->
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="
+        0 0;
+        20 0;
+        40 0;
+        40 20;
+        60 20;
+        80 20;
+        80 0;
+        100 0
+      "
+      dur="8s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+</svg>
