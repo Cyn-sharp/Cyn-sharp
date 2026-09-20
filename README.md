@@ -51,6 +51,14 @@ breaking things, fixing them, and learning something new along the way.
     alt="Cyn-Sharp mascot"
   />
 </p>
+<p align="right">
+  <img 
+    src="./assets/chibi-hero-pixel.svg" 
+    width="40" 
+    alt="Cyn-Sharp mascot"
+  />
+</p>
+
 
 <p align="center">
   <img
