@@ -40,16 +40,17 @@ I'm a Computer Engineering student at CIT-U who enjoys building things with code
 breaking things, fixing them, and learning something new along the way.
 
 ---
-<p align="left">
-  <img 
-    src="./assets/chibi-hero-pixel.svg" 
-    width="80" 
-    alt="Cyn-Sharp mascot"
-  />
-</p>
 <h1 align="center">
   Contributions
 </h1>
+
+<p align="left">
+  <img 
+    src="./assets/chibi-hero-pixel.svg" 
+    width="40" 
+    alt="Cyn-Sharp mascot"
+  />
+</p>
 
 <p align="center">
   <img
