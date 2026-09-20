@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://cca-cpe.vercel.app">
     <img
-      src="./assets/portfolio-button.svg"
+      src="./assets/button.svg"
       width="240"
       alt="Visit My Portfolio"
     />
