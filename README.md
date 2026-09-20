@@ -58,17 +58,19 @@ breaking things, fixing them, and learning something new along the way.
 ---
 
 ## 🕸️ Contribution Web
+## 🕸️ Contribution Web
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Cyn-sharp&bg_color=2b2b2b&color=ffffff&title_color=ffffff&line=20fb35&point=ffffff&area_color=20fb35&area=true&hide_border=true"
-    alt="Cyndrick's GitHub Contribution Web"
+    src="https://ghchart.rshah.org/Cyn-sharp"
+    alt="Cyndrick's GitHub Contributions"
   />
 </p>
 
 <p align="center">
   <i>Every commit leaves a mark on the web.</i>
 </p>
+
 ---
 
 ## 🕷️ Featured Projects
