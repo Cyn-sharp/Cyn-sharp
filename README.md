@@ -21,12 +21,12 @@ breaking things, fixing them, and learning something new along the way.
 
 ---
 
-## 🕸️ My Tech Web
+## 🕷️ Contribution Web
 
-```text
-Frontend       ███████████████░░░  React.js
-Backend        ████████████░░░░░░  Python / FastAPI
-Programming    █████████████░░░░░  C / C# / Java
-Database       ███████████░░░░░░░  Firebase / Supabase
-Tools          ███████████████░░░  Git / GitHub / VS Code
-DevOps         █████████░░░░░░░░░  Learning...
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyn-sharp&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  🕸️ Every commit adds another thread to the web.
+</p>
