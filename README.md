@@ -56,19 +56,17 @@ breaking things, fixing them, and learning something new along the way.
 - Trying to become the developer my future self would be proud of
 
 ---
-
-## 🕸️ Contribution Web
 ## 🕸️ Contribution Web
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/Cyn-sharp"
+    src="https://ssr-contributions-svg.vercel.app/_/Cyn-sharp?chart=calendar&format=jpeg&theme=dark&dark=true&colors=3f3f46,7f1d1d,b91c1c,ef4444,ff0000"
     alt="Cyndrick's GitHub Contributions"
   />
 </p>
 
 <p align="center">
-  <i>Every commit leaves a mark on the web.</i>
+  <i>Every commit leaves a mark on the web. 🕷️</i>
 </p>
 
 ---
