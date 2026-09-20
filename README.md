@@ -42,10 +42,7 @@ breaking things, fixing them, and learning something new along the way.
 ## 🕸️ Contribution Web
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Cyn-sharp&bg_color=1f2328&color=c9d1d9&title_color=ffffff&line=20fb35&point=ffffff&area_color=20fb35&area=true&hide_border=true"
-    alt="Cyndrick's GitHub Contribution Web"
-  />
+  <img src="https://ghchart.rshah.org/Cyn-sharp" alt="Cyndrick's GitHub Contributions" />
 </p>
 
 <p align="center">
