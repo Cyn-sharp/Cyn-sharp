@@ -66,17 +66,17 @@
 
 <a id="about"></a>
 
-## 🕷️ About Me
+## About Me
 
 Welcome to my corner of the web!
 
 I'm a Computer Engineering student at CIT-U who enjoys building things with code,
 breaking things, fixing them, and learning something new along the way.
 
-- 🎓 BS Computer Engineering @ **CIT-U**
-- 🔭 Building full-stack web apps and AI-powered tools
-- 🌱 Always learning: currently leveling up my Next.js and backend skills
-- 📫 **Open to internships and entry-level opportunities**, so feel free to reach out!
+- BS Computer Engineering @ **CIT-U**
+- Building full-stack web apps and AI-powered tools
+- Always learning: currently leveling up my Next.js and backend skills
+- **Open to internships and entry-level opportunities**, so feel free to reach out!
 
 <p align="center">
   <img src="./assets/web-divider.svg" width="100%" alt=""/>
@@ -84,7 +84,7 @@ breaking things, fixing them, and learning something new along the way.
 
 <a id="stack"></a>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -103,7 +103,7 @@ breaking things, fixing them, and learning something new along the way.
 
 <a id="projects"></a>
 
-## 🕸️ Featured Projects
+## Featured Projects
 
 <!--
   The badges pull each repo's top language and last commit live from GitHub.
@@ -114,7 +114,7 @@ breaking things, fixing them, and learning something new along the way.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗑️ GARBO</h3>
+      <h3>GARBO</h3>
       <p>A waste management system designed to help improve garbage collection and communication within communities.</p>
       <p>
         <img src="https://img.shields.io/github/languages/top/Cyn-sharp/GARBO?style=flat-square&color=2450B8" alt="GARBO top language"/>
@@ -125,7 +125,7 @@ breaking things, fixing them, and learning something new along the way.
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔄 U-ConvertIT</h3>
+      <h3>U-ConvertIT</h3>
       <p>A student-focused web application featuring productivity and AI-powered academic tools.</p>
       <p>
         <img src="https://img.shields.io/github/languages/top/Cyn-sharp/U-ConvertIT?style=flat-square&color=2450B8" alt="U-ConvertIT top language"/>
@@ -138,7 +138,7 @@ breaking things, fixing them, and learning something new along the way.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 QuestGo</h3>
+      <h3>QuestGo</h3>
       <p>A web-based platform built with Next.js that connects users through a quest-based system.</p>
       <p>
         <img src="https://img.shields.io/github/languages/top/Cyn-sharp/QuestGo?style=flat-square&color=2450B8" alt="QuestGo top language"/>
@@ -149,7 +149,7 @@ breaking things, fixing them, and learning something new along the way.
       </a>
     </td>
     <td width="50%" valign="middle" align="center">
-      <h3>✨ Want to see more?</h3>
+      <h3>Want to see more?</h3>
       <p>Case studies, screenshots, and live demos are on my portfolio.</p>
       <a href="https://cca-cpe.vercel.app">
         <img src="https://img.shields.io/badge/Explore_my_portfolio-2450B8?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio"/>
@@ -193,7 +193,7 @@ breaking things, fixing them, and learning something new along the way.
 </p>
 
 <p align="center">
-  <i>Every commit leaves a mark on the web. 🕷️</i>
+  <i>Every commit leaves a mark on the web.</i>
 </p>
 
 <p align="center">
@@ -202,7 +202,7 @@ breaking things, fixing them, and learning something new along the way.
 
 <a id="contact"></a>
 
-## 📬 Let's Connect
+## Let's Connect
 
 <!-- TODO: replace the LinkedIn and email placeholders with your real ones -->
 <p align="center">
