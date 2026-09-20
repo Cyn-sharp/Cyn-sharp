@@ -18,7 +18,7 @@
 <p align="center">
   <img
     src="./assets/sm-eyes.svg"
-    width="150"
+    width="200"
     alt="Cyn-Sharp mascot"
   />
 </p>
@@ -52,7 +52,19 @@
   <img src="https://img.shields.io/github/followers/Cyn-sharp?style=flat-square&color=E62429&label=Followers" alt="GitHub followers"/>
 </p>
 
----
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/About-E62429?style=flat-square" alt="About"/></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech_Stack-2450B8?style=flat-square" alt="Tech Stack"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-E62429?style=flat-square" alt="Projects"/></a>
+  <a href="#contributions"><img src="https://img.shields.io/badge/Contributions-2450B8?style=flat-square" alt="Contributions"/></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-E62429?style=flat-square" alt="Contact"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt=""/>
+</p>
+
+<a id="about"></a>
 
 ## 🕷️ About Me
 
@@ -66,7 +78,11 @@ breaking things, fixing them, and learning something new along the way.
 - 🌱 Always learning: currently leveling up my Next.js and backend skills
 - 📫 **Open to internships and entry-level opportunities**, so feel free to reach out!
 
----
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt=""/>
+</p>
+
+<a id="stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +97,11 @@ breaking things, fixing them, and learning something new along the way.
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt=""/>
+</p>
+
+<a id="projects"></a>
 
 ## 🕸️ Featured Projects
 
@@ -138,7 +158,11 @@ breaking things, fixing them, and learning something new along the way.
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt=""/>
+</p>
+
+<a id="contributions"></a>
 
 <h1 align="center">
   Contributions
@@ -172,15 +196,18 @@ breaking things, fixing them, and learning something new along the way.
   <i>Every commit leaves a mark on the web. 🕷️</i>
 </p>
 
----
+<p align="center">
+  <img src="./assets/web-divider.svg" width="100%" alt=""/>
+</p>
+
+<a id="contact"></a>
 
 ## 📬 Let's Connect
 
 <!-- TODO: replace the LinkedIn and email placeholders with your real ones -->
 <p align="center">
   <a href="https://cca-cpe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=2450B8" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=2450B8" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=E62429" alt="Email"/></a>
+  <a href="mailto:cyndrickabejo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=E62429" alt="Email"/></a>
 </p>
 
 <img
