@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
-> **"In spite of everything you do for them, they will always hate for making a mistake."** 
+> **"There's always room for improvements."** 
 
 Welcome to my corner of the web!
 
