@@ -54,7 +54,9 @@ breaking things, fixing them, and learning something new along the way.
 </p>
 ---
 
-## 🕷️ Featured Projects
+<h1 align = "center">
+  Featured Projects
+</h1>
 
 ###  GARBO
 A waste management system designed to help improve garbage collection
