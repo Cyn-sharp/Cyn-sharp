@@ -131,7 +131,7 @@ breaking things, fixing them, and learning something new along the way.
         <img src="https://img.shields.io/github/languages/top/Cyn-sharp/U-ConvertIT?style=flat-square&color=2450B8" alt="U-ConvertIT top language"/>
         <img src="https://img.shields.io/github/last-commit/Cyn-sharp/U-ConvertIT?style=flat-square&color=E62429" alt="U-ConvertIT last commit"/>
       </p>
-      <a href="https://github.com/Cyn-sharp/U-ConvertIT">
+      <a href="https://github.com/Cyn-sharp/u-convertit-frontend">
         <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white&color=2450B8" alt="View U-ConvertIT on GitHub"/>
       </a>
     </td>
