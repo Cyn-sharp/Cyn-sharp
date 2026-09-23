@@ -11,7 +11,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:E62429,100:2450B8&text=Welcome%20to%20my%20Web&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn"
     width="100%"
-    alt="Welcome to my Web"
+    alt="Welcome to my Profile"
   />
 </p>
 
