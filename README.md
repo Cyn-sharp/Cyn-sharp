@@ -24,7 +24,7 @@
 </p>
 
 <h1 align="center">
-   Hey, I'm Cyndrick Abejo BSCPE!
+   Hey, I'm Cyndrick Abejo BSCPE - 3rd year!
 </h1>
 
 <!-- Typing animation: edit the lines= part to change the rotating text -->
