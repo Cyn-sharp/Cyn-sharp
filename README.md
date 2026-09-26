@@ -1,12 +1,4 @@
-<!--
-  Spider-Man palette
-  Red        E62429  (fills, borders, accents)
-  Suit blue  2450B8  (fills, borders, badges)
-  Light blue 6E96F0  (small text on dark backgrounds)
-  Web black  0D1117  (backgrounds)
--->
 
-<!-- ============ ANIMATED HEADER ============ -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:E62429,100:2450B8&text=Welcome%20to%20my%20Web&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn"
