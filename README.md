@@ -175,35 +175,4 @@ breaking things, fixing them, and learning something new along the way.
   />
 </p>
 
-<!-- Snake animation: needs the snake.yml workflow (see setup notes) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyn-sharp/Cyn-sharp/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyn-sharp/Cyn-sharp/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Cyn-sharp/Cyn-sharp/output/github-snake-dark.svg" />
-  </picture>
-</p>
 
-<p align="center">
-  <i>Every commit leaves a mark on the web.</i>
-</p>
-
-<p align="center">
-  <img src="./assets/web-divider.svg" width="100%" alt=""/>
-</p>
-
-<a id="contact"></a>
-
-## Let's Connect
-
-<!-- TODO: replace the LinkedIn and email placeholders with your real ones -->
-<p align="center">
-  <a href="https://cca-cpe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=2450B8" alt="Portfolio"/></a>
-  <a href="mailto:cyndrickabejo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=E62429" alt="Email"/></a>
-</p>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2450B8,100:E62429"
-  width="100%"
-  alt="Footer wave"
-/>
